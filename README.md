@@ -28,15 +28,6 @@ pip install -r requirements.txt
 
 ## 🧪 Demo
 
-🚀 **Live Demo**
-
-You can try the model in your browser using Streamlit:
-
-👉 [Try it on Streamlit](https://share.streamlit.io/your-username/your-repo-name/main/app.py)  
-*(Replace the link with your actual Streamlit deployment URL)*
-
----
-
 📷 **Demo Walkthrough**
 
 ### 1. Upload a Handwritten Hindi Word Image
@@ -61,4 +52,4 @@ You can try the model in your browser using Streamlit:
 
 | Input Image | Recognized Text | Output File |
 |-------------|------------------|------------------|
-| ![input](image.png) | विद्यालय | ![input](https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/refs/heads/main/generated_text.txt)
+| ![input](image.png) | विद्यालय | https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/refs/heads/main/generated_text.txt
