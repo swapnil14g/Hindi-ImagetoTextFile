@@ -29,8 +29,28 @@ pip install -r requirements.txt
 
 ## 🧪 Demo
 
-📷 **Demo Walkthrough**
-
 | Input Image | Recognized Text | Output File |
 |-------------|------------------|------------------|
 | ![input](image.png) |    विद्यालय |    [📄](https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/main/generated_text.txt)
+
+
+## 📝 Usage Instructions
+
+-Launch the app `deploy.py`.
+
+-Upload a handwritten Hindi word image (.png, .jpg, .jpeg).
+
+-View the recognized text on screen.
+
+-Download it as a .txt file if needed.
+
+## 📚 Acknowledgements
+-`TrOCR`: Transformer-based OCR
+
+-`DeiT` by Facebook
+
+-`Roberta Hindi`
+
+-IIIT-HW Dataset
+
+-Hugging Face Transformers
