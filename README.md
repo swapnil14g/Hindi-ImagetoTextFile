@@ -3,10 +3,11 @@ This repository hosts a pretrained Indic TrOCR model capable of extracting handw
 
 🚀 This repo features a Streamlit app to run the model interactively.
 
-##🧠 About TrOCR
+## 🧠 About TrOCR
 TrOCR (Transformer-based Optical Character Recognition) is a state-of-the-art OCR framework introduced by Microsoft Research. It combines:
 
 -`Vision Transformer (ViT/DeiT)` as the image encoder
+
 -`Autoregressive Text Transformer (RoBERTa)` as the decoder
 
 This implementation is fine-tuned for handwritten Hindi word-level OCR.
@@ -44,7 +45,7 @@ pip install -r requirements.txt
 
 ### 3. Download the Output Text File
 
-[📄 Click here to download the output text file](https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/main/generated_text.txt)
+[Click here to see the output text file](https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/main/generated_text.txt)
 
 ---
 
