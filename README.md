@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 3. Download the Output Text File
 
-<img src="https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/refs/heads/main/generated_text.txt" width="600"/>
+<html src="https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/refs/heads/main/generated_text.txt" width="600"/>
 
 ---
 
