@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 | Input Image | Recognized Text | Output File |
 |-------------|------------------|------------------|
-| ![input](image.png) |    विद्यालय |    [📄](https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/main/generated_text.txt)
+| ![input](image.png) |    हिंदी |    [📄](https://raw.githubusercontent.com/swapnil14g/Hindi-ImagetoTextFile/main/generated_text.txt)
 
 
 ## 📝 Usage Instructions
